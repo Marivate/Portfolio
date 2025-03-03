@@ -57,6 +57,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Midstream Estate, Olifantsfontein, GP 1692 ",
-  phoneNo: "+27 61 749 0911 ",
+  phoneNo: "+27 63 361 1413 ",
   email: "marivate.tk@gmail.com",
 };
