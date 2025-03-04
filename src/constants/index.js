@@ -9,10 +9,10 @@ export const ABOUT_TEXT = `I am a passionate and versatile software engineer wit
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "2023 - 2024",
     role: "Software Engineer Training",
     company: "KATIBA.",
-    description: `Contributed to the development and maintenance of software systems using Python, Django, React, Node.js, SQL, and Java. Implemented RESTful APIs and integrated with SQL databases. Worked closely with stakeholders to define project requirements and timelines.`,
+    description: `Contributed to the development and maintenance of software systems as a trainee using Python, Django, React, Node.js, SQL, and Java. Implemented RESTful APIs and integrated with SQL databases. Worked closely with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
