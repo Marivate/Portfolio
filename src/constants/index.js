@@ -5,7 +5,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and adaptable software engineer with a keen interest in crafting efficient and user-friendly web applications. With 1 year of professional experience, I have gained exposure to a range of technologies, including Python, Django, React, Node.js, SQL, and Java. My journey in web development started with a profound interest in understanding how things function, and it has transformed into a career where I am constantly eager to learn and adapt to new challenges. I flourish in team-oriented environments and take pleasure in solving intricate problems to deliver top-notch solutions. Beyond coding, I relish staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a passionate and versatile software engineer with a knack for building seamless and intuitive web applications. With two years of hands-on experience, I’ve dived into a dynamic tech stack, mastering Python, Django, React, Node.js, SQL, and Java. My fascination with how things work evolved into a thriving career where I embrace every challenge as an opportunity to innovate and grow. I thrive in collaborative settings, turning complex problems into elegant solutions. When I’m not coding, you’ll find me exploring the latest tech trends, contributing to open-source projects, or staying active to keep both mind and body sharp.`;
 
 export const EXPERIENCES = [
   {
@@ -26,11 +26,11 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Eye tracking cursor",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "This project uses computer vision techniques to track eye movements and control the cursor on the screen accordingly.",
+    technologies: ["Python", "PyAutoGUI", "OpenCV", "Mediapie"],
   },
   {
     title: "Task Management App",
