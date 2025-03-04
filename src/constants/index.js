@@ -43,7 +43,7 @@ export const PROJECTS = [
     title: "ATM System",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "This project is a simple ATM (Automated Teller Machine) transaction system implemented in Python.",
     technologies: ["Python", "possible expansion with TKinter, MongoDB and FastAPI"],
   },
   {
