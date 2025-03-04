@@ -40,11 +40,11 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
   },
   {
-    title: "Portfolio Website",
+    title: "ATM System",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["Python", "possible expansion with TKinter, MongoDB and FastAPI"],
   },
   {
     title: "Blogging Platform",
