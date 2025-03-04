@@ -5,7 +5,6 @@ import { BiLogoPython } from "react-icons/bi";
 import { SiDjango } from "react-icons/si";
 import { FaJava } from "react-icons/fa";
 import { motion } from "framer-motion"
-import { Analytics } from "@vercel/analytics/react"
 
 const iconVariants = (duration) => ({
     initial: { y: -10 },
