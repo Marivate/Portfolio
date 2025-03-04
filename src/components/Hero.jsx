@@ -1,5 +1,6 @@
 import profilePic from "../assets/tintswaloProfile.jpg";
 import { motion } from "framer-motion"
+import { Analytics } from "@vercel/analytics/react"
 
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },

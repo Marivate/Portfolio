@@ -1,5 +1,6 @@
 import { EXPERIENCES } from "../constants";
 import { motion } from "framer-motion"
+import { Analytics } from "@vercel/analytics/react"
 
 const Experience = () => {
     return (
