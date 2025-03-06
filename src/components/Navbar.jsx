@@ -20,10 +20,10 @@ const Navbar = () => {
                 </a>
                 {/*<a href="https://www.instagram.com/your-profile" target="_blank" rel="noopener noreferrer">
                     <FaInstagram />
-                </a>
-                <a href="https://twitter.com/your-profile" target="_blank" rel="noopener noreferrer">
-                    <FaSquareXTwitter />
                 </a>*/}
+                <a href="https://x.com/marivateswe?s=21" target="_blank" rel="noopener noreferrer">
+                    <FaSquareXTwitter />
+                </a>
                 <a href={CV} download className="text-blue-500 hover:text-blue-700">
                     <FaFileArrowDown />
                 </a>
