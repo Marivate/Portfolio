@@ -3,6 +3,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaSquareXTwitter, FaFileArrowDown } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
 import logo from "../assets/marivateLogo.png";
+import logo from "../assets/Tintswalo_Marivate_CV.pdf";
 
 const Navbar = () => {
     return (
@@ -23,7 +24,7 @@ const Navbar = () => {
                 <a href="https://twitter.com/your-profile" target="_blank" rel="noopener noreferrer">
                     <FaSquareXTwitter />
                 </a>
-                <a href="../assets/Tintswalo_Marivate_CV_[TGT].pdf" download className="text-blue-500 hover:text-blue-700">
+                <a href="../assets/Tintswalo_Marivate_CV.pdf" download className="text-blue-500 hover:text-blue-700">
                     <FaFileArrowDown />
                 </a>
             </div>
