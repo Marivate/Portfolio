@@ -3,6 +3,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaSquareXTwitter, FaFileArrowDown } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
 import logo from "../assets/marivateLogo.png";
+import CV from "../assets/TintswaloMarivateCV.pdf";
 
 const Navbar = () => {
     return (
