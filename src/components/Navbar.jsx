@@ -18,12 +18,12 @@ const Navbar = () => {
                 <a href="https://github.com/DonMarivate" target="_blank" rel="noopener noreferrer">
                     <FaGithub />
                 </a>
-                <a href="https://www.instagram.com/your-profile" target="_blank" rel="noopener noreferrer">
+                {/*<a href="https://www.instagram.com/your-profile" target="_blank" rel="noopener noreferrer">
                     <FaInstagram />
                 </a>
                 <a href="https://twitter.com/your-profile" target="_blank" rel="noopener noreferrer">
                     <FaSquareXTwitter />
-                </a>
+                </a>*/}
                 <a href={CV} download className="text-blue-500 hover:text-blue-700">
                     <FaFileArrowDown />
                 </a>
