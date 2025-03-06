@@ -23,7 +23,7 @@ const Navbar = () => {
                 <a href="https://twitter.com/your-profile" target="_blank" rel="noopener noreferrer">
                     <FaSquareXTwitter />
                 </a>
-                <a href="../assets/Tintswalo-Marivate-CV-[TGT].pdf" download className="text-blue-500 hover:text-blue-700">
+                <a href="../assets/Tintswalo_Marivate_CV_[TGT].pdf" download className="text-blue-500 hover:text-blue-700">
                     <FaFileArrowDown />
                 </a>
             </div>
