@@ -24,7 +24,7 @@ const Navbar = () => {
                 <a href="https://x.com/marivateswe?s=21" target="_blank" rel="noopener noreferrer">
                     <FaSquareXTwitter />
                 </a>
-                <a href={CV} download className="text-white hover:text-blue-700">
+                <a href={CV} download className="hover:text-blue-700">
                     <FaFileArrowDown />
                 </a>
             </div>
