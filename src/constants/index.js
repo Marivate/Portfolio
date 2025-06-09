@@ -12,7 +12,7 @@ export const EXPERIENCES = [
     year: "12 Month Contract",
     role: "Software Engineer Training",
     company: "KATIBA.",
-    description: `Contributed to the development and maintenance of software systems as a trainee using Python, Django, React, Node.js, SQL, and Java. Implemented RESTful APIs and integrated with SQL databases. Worked closely with stakeholders to define project requirements and timelines.`,
+    description: `Contributed to the development and maintenance of software systems as a trainee using Python, Django, React, Node.js, and SQL. Implemented RESTful APIs and integrated with SQL databases. Worked closely with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
