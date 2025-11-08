@@ -35,7 +35,7 @@ const Hero = () => {
             initial="hidden"
             animate="visible" 
             className="my-2 max-w-xl py-6 font-light tracking-tighter">
-            As a detail oriented software engineer, I specialize in developing scalable and high performance software solutions. With my hands-on experience, I focus on creating innovative systems that enhance efficiency and user satisfaction. I thrive on solving complex challenges and refining software to deliver seamless experiences. My approach blends technical expertise with a problem-solving mindset, ensuring that every solution is both practical and impactful.
+            As a detail oriented software engineer, I specialize in developing scalable and high performance software solutions. With my hands on experience, I focus on creating innovative systems that enhance efficiency and user satisfaction. I thrive on solving complex challenges and refining software to deliver seamless experiences. My approach blends technical expertise with a problem-solving mindset, ensuring that every solution is both practical and impactful.
             </motion.p>
           </div>
         </div>
