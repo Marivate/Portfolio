@@ -1,4 +1,4 @@
-import profilePic from "../assets/tintswaloProfile2.jpg";
+import profilePic from "../assets/tintswaloProfile2.JPEG";
 import { motion } from "framer-motion"
 
 const container = (delay) => ({
