@@ -9,14 +9,28 @@ export const ABOUT_TEXT = `I am a passionate and versatile software engineer wit
 
 export const EXPERIENCES = [
   {
-    year: "12 Month Contract",
+    year: "April 2025 - September 2025",
+    role: "Software Engineer Training",
+    company: "SoftWave Technology",
+    description: `During my work-integrated learning at Softwave Technology, I designed and implemented comprehensive book management features to enhance the efficiency of library operations. I developed user registration and book management modules that streamlined user access and resource organization. Additionally, I implemented transaction processing for book borrowing and returns, ensuring accurate reporting and smooth day to day library operations.`,
+    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+  },
+  {
+    year: "May 2024 - September",
+    role: "Web App Developer",
+    company: "Freelance",
+    description: `As a freelance web app developer, I designed and developed responsive web applications using modern frameworks and technologies. I collaborated closely with clients to gather requirements and deliver customized solutions that met their business needs. My work involved integrating APIs, optimizing performance, and ensuring a seamless user experience across devices. I also handled deployment, maintenance, and security updates to guarantee ongoing functionality and reliability of each application.`,
+    technologies: ["Javascript", "React.js", "Next.js", "Node.js", "SQL"],
+  },
+  {
+    year: "February 2023 - March 2024",
     role: "Software Engineer Training",
     company: "KATIBA.",
     description: `Contributed to the development and maintenance of software systems as a trainee using Python, Django, React, Node.js, and SQL. Implemented RESTful APIs and integrated with SQL databases. Worked closely with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
-    year: "12 Month Contract",
+    year: "January 2022 - December 2022",
     role: "Frontend Developer",
     company: "Marivate Realty",
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
