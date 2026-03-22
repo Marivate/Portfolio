@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a passionate and versatile software engineer wit
 
 export const EXPERIENCES = [
   {
-    year: "April 2025 - September 2025",
+    year: "April 2025 - October 2025",
     role: "Software Engineer",
     company: "SoftWave Technology",
     description: `During my work-integrated learning at Softwave Technology, I designed and implemented comprehensive book management features to enhance the efficiency of library operations. I developed user registration and book management modules that streamlined user access and resource organization. Additionally, I implemented transaction processing for book borrowing and returns, ensuring accurate reporting and smooth day to day library operations.`,
@@ -17,9 +17,9 @@ export const EXPERIENCES = [
   },
   {
     year: "May 2024 - September",
-    role: "Web App Developer",
-    company: "Freelance",
-    description: `As a freelance web app developer, I designed and developed responsive web applications using modern frameworks and technologies. I collaborated closely with clients to gather requirements and deliver customized solutions that met their business needs. My work involved integrating APIs, optimizing performance, and ensuring a seamless user experience across devices. I also handled deployment, maintenance, and security updates to guarantee ongoing functionality and reliability of each application.`,
+    role: "CTU",
+    company: "Software Engineer",
+    description: `Designed and developed responsive full-stack web applications using React.js, Next.js, Node.js, and Django, ensuring modularity, scalability, and maintainability. Integrated RESTful and GraphQL APIs, optimized database queries, and enhanced application performance to deliver seamless user experiences. Collaborated with clients to gather requirements for projects serving between 1,000 and 5,000 users monthly. Deployed and maintained applications on Azure and AWS, achieving 99% uptime across all client projects.`,
     technologies: ["Javascript", "React.js", "Next.js", "Node.js", "SQL"],
   },
   {
@@ -28,13 +28,6 @@ export const EXPERIENCES = [
     company: "KATIBA.",
     description: `Contributed to the development and maintenance of software systems as a trainee using Python, Django, React, Node.js, and SQL. Implemented RESTful APIs and integrated with SQL databases. Worked closely with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
-  },
-  {
-    year: "January 2022 - December 2022",
-    role: "Frontend Developer",
-    company: "Marivate Realty",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
   },
 ];
 
