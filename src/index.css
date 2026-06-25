@@ -7,8 +7,20 @@
 :root {
   font-family: "Inter", sans-serif;
 }
-html, body, #root {
+
+html,
+body,
+#root {
   height: 100%;
   margin: 0;
   padding: 0;
+}
+
+/* Prevent mobile “white space” caused by default spacing/viewport rounding */
+body {
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;ff
 }
