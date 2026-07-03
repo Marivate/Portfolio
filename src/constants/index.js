@@ -9,17 +9,24 @@ export const ABOUT_TEXT = `I am a versatile software engineer with a knack for b
 
 export const EXPERIENCES = [
   {
+    year: "June 2026 - present",
+    role: "Coast IT | 6 Months Contract",
+    company: "Coast IT",
+    description: `Developed and maintained cross-platform application features using Flutter and Dart, delivering responsive and user-friendly interfaces across mobile and web platforms while integrating Firebase, REST APIs, and JSON-based services to support core functionality. Worked within an Agile environment using Git and GitHub for version control, collaboration, and code reviews, while actively participating in sprint planning and task delivery. Conducted thorough testing, debugging, and performance optimization using tools such as Android Studio, Visual Studio Code, and Postman to ensure application stability and quality. Translated Figma designs into scalable, production-ready interfaces and contributed to improving overall system maintainability through clean code practices and continuous enhancements.`,
+    technologies: ["Flutter", "Dart", "Firebase", "RESTful APIs", "SQL", "JSON data handling"],
+  },
+  {
     year: "June 2025 - October 2025",
-    role: "Coast IT",
-    company: "Software Engineer",
-    description: `Designed and developed responsive full-stack web applications using React.js, Next.js, Node.js, and Django, ensuring modularity, scalability, and maintainability. Integrated RESTful and GraphQL APIs, optimized database queries, and enhanced application performance to deliver seamless user experiences. Collaborated with clients to gather requirements for projects serving between 1,000 and 5,000 users monthly. Deployed and maintained applications on Azure and AWS, achieving 99% uptime across all client projects.`,
+    role: "Coast IT | 6 Months Contract",
+    company: "Coast IT",
+    description: `Designed and developed library management system modules using Python, Django, and SQL, improving data handling and streamlining core business workflows through efficient backend logic and relational database design. Built and integrated RESTful APIs to enable seamless communication between system components while ensuring data integrity and performance optimization. Deployed and maintained applications using Microsoft Azure and Docker, implementing CI/CD pipelines to automate build, testing, and deployment processes. Collaborated with development teams using Git, GitHub, and Agile methodologies, while actively contributing to testing, debugging, and continuous system improvements.`,
     technologies: ["Javascript", "React.js", "Next.js", "Node.js", "SQL"],
   },
   {
     year: "June 2024 - October 2024",
-    role: "Systems Developer",
+    role: "Systems Developer | 6 Months Contract",
     company: "SoftWave Technology",
-    description: `During my work-integrated learning at Softwave Technology, I designed and implemented comprehensive book management features to enhance the efficiency of library operations. I developed user registration and book management modules that streamlined user access and resource organization. Additionally, I implemented transaction processing for book borrowing and returns, ensuring accurate reporting and smooth day to day library operations.`,
+    description: `Developed and maintained enterprise-level software solutions using Python, Django, React.js, and Node.js, delivering scalable and high-performance applications aligned with business requirements. Designed and optimized REST APIs and relational databases using PostgreSQL and MySQL to ensure efficient data flow, consistency, and system reliability. Built responsive frontend interfaces and robust backend services following modern software engineering principles, focusing on scalability and maintainability. Implemented CI/CD pipelines using Azure DevOps and Docker to automate deployment workflows, improving delivery efficiency and system stability. Collaborated in Agile teams using Git and GitHub, contributing to code reviews, debugging, testing, and technical documentation throughout the development lifecycle.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
 ];
