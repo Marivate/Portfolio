@@ -65,5 +65,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Centurion, Gauteng ",
   phoneNo: "+27 63 361 1413 ",
-  email: "marivate.tk@gmail.com",
+  email: "tk.marivate@gmail.com",
 };
