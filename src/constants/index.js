@@ -26,6 +26,15 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "AgentOne",
+    image: project1,
+    description:
+      "A mobile agent AI application that completes tasks for you, uses your browser as well as connected applications, inspired by MuseAI.",
+    technologies: ["React Native", "Expo", "OpenAi", "Browserbase", "SupaBase"],
+    github: "https://github.com/Marivate/AgentOne",
+    live: "",
+  },
+  {
     title: "Eye tracking cursor",
     image: project1,
     description:
@@ -35,11 +44,31 @@ export const PROJECTS = [
     live: "",
   },
   {
-    title: "Task Management App",
+    title: "Zenny Tombstones Website",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "A Company website for a client, the website showcases their business of selling tombstones, offering memorial services and more.",
+    technologies: ["HTML", "Typescript", "Javacript"],
+    github: "",
+    live: "https://www.zennytombstones.co.za/",
+  },
+  {
+    title: "Macbook M4 Landing Page",
+    image: project2,
+    description:
+      "A product landing page for the Macbook M4, inspired by Apple original sites.",
+    technologies: ["React", "ThreeJS", "GSAP", "TailwindCSS"],
+    github: "https://github.com/Marivate/macbook",
+    live: "https://macbook-marivate.vercel.app/",
+  },
+  {
+    title: "Techflow Landing Page",
+    image: project2,
+    description:
+      "A product landing page for the a note taking app.",
+    technologies: ["React", "ThreeJS", "TailwindCSS"],
+    github: "https://github.com/Marivate/TechFlow-Landing-Page",
+    live: "https://techflow-marivate1.netlify.app/",
   },
   {
     title: "ATM System",
@@ -47,6 +76,26 @@ export const PROJECTS = [
     description:
       "This project is a simple ATM (Automated Teller Machine) transaction system implemented in Python.",
     technologies: ["Python", "possible expansion with TKinter, MongoDB and FastAPI"],
+    github: "https://github.com/Marivate/ATM-system",
+    live: "",
+  },
+  {
+    title: "CTU Buddy",
+    image: project2,
+    description:
+      "This system aims to provide an interactive and comprehensive platform for students of City Technical University (CTU) to manage their schedules, engage in discussions, share resources, and contact university staff.",
+    technologies: ["HTML", "CSS", "PHP", "Javasscript", "MySQL"],
+    github: "https://github.com/Marivate/TechFlow-Landing-Page",
+    live: "https://techflow-marivate1.netlify.app/",
+  },
+  {
+    title: "Marivate Associates Website",
+    image: project2,
+    description:
+      "This is a website for a law firm I have made for my brother as law is a family business.",
+    technologies: ["Typescript", "CSS", "Javascript", "Resend"],
+    github: "",
+    live: "https://techflow-marivate1.netlify.app/",
   },
   {
     title: "Blogging Platform",
