@@ -18,7 +18,7 @@ body,
 
 /* Prevent mobile “white space” caused by default spacing/viewport rounding */
 body {
-  /*overflow-x: hidden;*/
+  overflow-x: hidden;
   background-color: #0b0b0d;
   margin: 0;
   min-height: 100vh;
