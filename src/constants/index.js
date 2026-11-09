@@ -16,7 +16,7 @@ export const ABOUT_TEXT = `I am a versatile software engineer with a knack for b
 export const EXPERIENCES = [
   {
     year: "June 2025 - Present",
-    role: "Coast IT",
+    role: "Software Engineer",
     company: "Coast IT",
     description: `Developed and maintained cross-platform application features using Flutter and Dart, delivering responsive and user-friendly interfaces across mobile and web platforms while integrating Firebase, REST APIs, and JSON-based services to support core functionality. Worked within an Agile environment using Git and GitHub for version control, collaboration, and code reviews, while actively participating in sprint planning and task delivery. Conducted thorough testing, debugging, and performance optimization using tools such as Android Studio, Visual Studio Code, and Postman to ensure application stability and quality. Translated Figma designs into scalable, production-ready interfaces and contributed to improving overall system maintainability through clean code practices and continuous enhancements.`,
     technologies: ["Javascript", "React.js", "Next.js", "Node.js", "SQL"],
