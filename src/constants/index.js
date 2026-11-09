@@ -101,7 +101,7 @@ export const PROJECTS = [
       "This is a website for a law firm I have made for my brother as law is a family business.",
     technologies: ["Typescript", "CSS", "Javascript", "Resend"],
     github: "",
-    live: "https://techflow-marivate1.netlify.app/",
+    live: "https://marivate-associates.vercel.app/",
   },
   {
     title: "Blogging Platform",
