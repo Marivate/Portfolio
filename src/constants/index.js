@@ -91,8 +91,8 @@ export const PROJECTS = [
     description:
       "This system aims to provide an interactive and comprehensive platform for students of City Technical University (CTU) to manage their schedules, engage in discussions, share resources, and contact university staff.",
     technologies: ["HTML", "CSS", "PHP", "Javasscript", "MySQL"],
-    github: "https://github.com/Marivate/TechFlow-Landing-Page",
-    live: "https://techflow-marivate1.netlify.app/",
+    github: "https://github.com/Marivate/ctu_buddy",
+    live: "",
   },
   {
     title: "Marivate Associates Website",
