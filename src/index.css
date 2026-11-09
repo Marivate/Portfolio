@@ -11,7 +11,7 @@
 html,
 body,
 #root {
-  height: 100%;
+  min-height: 100%;
   margin: 0;
   padding: 0;
 }
@@ -19,8 +19,14 @@ body,
 /* Prevent mobile “white space” caused by default spacing/viewport rounding */
 body {
   overflow-x: hidden;
+  margin: 0;
+  min-height: 100vh;
+  min-height: 100dvh; /* Safari support */
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
 }
 
 #root {
   min-height: 100vh;
+  min-height: 100dvh; /* Safari support */
 }
