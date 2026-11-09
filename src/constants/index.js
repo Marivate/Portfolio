@@ -31,6 +31,8 @@ export const PROJECTS = [
     description:
       "This project uses computer vision techniques to track eye movements and control the cursor on the screen accordingly.",
     technologies: ["Python", "PyAutoGUI", "OpenCV", "Mediapie"],
+    github: "https://github.com/Marivate/eye-tracking-cursor",
+    live: "",
   },
   {
     title: "Task Management App",
