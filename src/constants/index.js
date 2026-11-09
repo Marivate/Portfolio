@@ -2,6 +2,12 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-agentone.jpg";
+import project6 from "../assets/projects/zenny.jpg";
+import project7 from "../assets/projects/macbook.jpg";
+import project8 from "../assets/projects/techflow.jpg";
+import project9 from "../assets/projects/marivateassociates.jpg";
+import project10 from "../assets/projects/ctubuddy.jpg";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -27,7 +33,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "AgentOne",
-    image: project1,
+    image: project5,
     description:
       "A mobile agent AI application that completes tasks for you, uses your browser as well as connected applications, inspired by MuseAI.",
     technologies: ["React Native", "Expo", "OpenAi", "Browserbase", "SupaBase"],
@@ -45,7 +51,7 @@ export const PROJECTS = [
   },
   {
     title: "Zenny Tombstones Website",
-    image: project2,
+    image: project6,
     description:
       "A Company website for a client, the website showcases their business of selling tombstones, offering memorial services and more.",
     technologies: ["HTML", "Typescript", "Javacript"],
@@ -54,7 +60,7 @@ export const PROJECTS = [
   },
   {
     title: "Macbook M4 Landing Page",
-    image: project2,
+    image: project7,
     description:
       "A product landing page for the Macbook M4, inspired by Apple original sites.",
     technologies: ["React", "ThreeJS", "GSAP", "TailwindCSS"],
@@ -63,7 +69,7 @@ export const PROJECTS = [
   },
   {
     title: "Techflow Landing Page",
-    image: project2,
+    image: project8,
     description:
       "A product landing page for the a note taking app.",
     technologies: ["React", "ThreeJS", "TailwindCSS"],
@@ -90,7 +96,7 @@ export const PROJECTS = [
   },
   {
     title: "Marivate Associates Website",
-    image: project2,
+    image: project9,
     description:
       "This is a website for a law firm I have made for my brother as law is a family business.",
     technologies: ["Typescript", "CSS", "Javascript", "Resend"],
